@@ -1,5 +1,7 @@
 # Table 1: Scaling Law Functional Form Ablation
 
+Progressive rows show incremental modeling of architectural dimensions; Ablation rows remove individual terms from the full model; Variant tests alternative parameterizations. ΔEval is the difference in validation R² relative to Ours (Eq. 2).
+
 | Category | Model | #Params | Train R² | Eval R² | ΔEval |
 |---|---|---|---|---|---|
 | Progressive | Chinchilla (κ_N/N^α) | 3 | 0.577 | 0.667 | -0.285 |
