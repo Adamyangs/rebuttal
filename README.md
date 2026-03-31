@@ -1,4 +1,4 @@
-# rebuttal
+# Table 1: Scaling Law Functional Form Ablation
 
 | Category | Model | #Params | Train R² | Eval R² | ΔEval |
 |---|---|---|---|---|---|
